@@ -39,7 +39,7 @@
     "@types/uuid": "8.3.0",
     "@types/websql": "0.0.27",
     "@types/zen-observable": "0.8.2",
-    "apollo-server": "2.21.0",
+    "apollo-server": "2.25.1",
     "debug": "4.3.1",
     "fake-indexeddb": "3.1.2",
     "isomorphic-unfetch": "3.1.0",
@@ -52,7 +52,7 @@
     "vue": "3.0.6"
   },
   "dependencies": {
-    "graphql-tag": "2.11.0",
+    "graphql-tag": "2.12.4",
     "react-native-sqlite-2": "3.1.1",
     "subscriptions-transport-ws": "0.9.18",
     "tiny-invariant": "1.1.0",
