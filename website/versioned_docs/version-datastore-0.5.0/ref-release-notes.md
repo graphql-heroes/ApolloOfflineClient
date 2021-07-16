@@ -4,6 +4,10 @@ title: What is new in Offix
 sidebar_label: Release notes
 ---
 
+# 0.15.0
+
+The 0.15.0 release will be the last release of the Offix client. The Offix offline wrapper will no longer be maintained and we have decided to continue with a Datastore approach instead. Please see the docs to get started with the Offix Datastore.
+
 # 0.13.0
 
 The 0.13.0 release is a release contains a couple of bug fixes, dependency updates and the new ability to configure your own `CachePersistor` object as requested in [#273](https://github.com/aerogear/offix/issues/273) and [#281](https://github.com/aerogear/offix/issues/281).

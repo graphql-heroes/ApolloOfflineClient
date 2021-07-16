@@ -4,13 +4,9 @@ title: What is new in Offix
 sidebar_label: Release notes
 ---
 
-# 0.13.2
+# 0.15.0
 
-Add useNetworkStatus React hook which can be used to build components that render differently depending on the network state.
-
-# 0.13.1
-
-0.13.1 fixes package install issues that were introduced in 0.13.0. It also introduces some minor dependency updates.
+The 0.15.0 release will be the last release of the Offix client. The Offix offline wrapper will no longer be maintained and we have decided to continue with a Datastore approach instead. Please see the docs to get started with the Offix Datastore.
 
 # 0.13.0
 
